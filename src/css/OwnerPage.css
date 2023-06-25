@@ -1,0 +1,14 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+.chart-container {
+  margin-top: 40px;
+}
+
+.sales_info {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
